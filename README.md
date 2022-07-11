@@ -1,2 +1,2 @@
 # chatappv1
-This is a php project that woorks on the basics of a chat application.
+A simple chat web app built with PHP.
